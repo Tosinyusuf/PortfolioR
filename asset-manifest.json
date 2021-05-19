@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Tosinyusuf/PortfolioR.git/static/css/main.b9a1c220.chunk.css",
-    "main.js": "/Tosinyusuf/PortfolioR.git/static/js/main.d564264c.chunk.js",
-    "main.js.map": "/Tosinyusuf/PortfolioR.git/static/js/main.d564264c.chunk.js.map",
-    "runtime-main.js": "/Tosinyusuf/PortfolioR.git/static/js/runtime-main.543a8dc6.js",
-    "runtime-main.js.map": "/Tosinyusuf/PortfolioR.git/static/js/runtime-main.543a8dc6.js.map",
-    "static/js/2.6ab37ef6.chunk.js": "/Tosinyusuf/PortfolioR.git/static/js/2.6ab37ef6.chunk.js",
-    "static/js/2.6ab37ef6.chunk.js.map": "/Tosinyusuf/PortfolioR.git/static/js/2.6ab37ef6.chunk.js.map",
-    "index.html": "/Tosinyusuf/PortfolioR.git/index.html",
-    "static/css/main.b9a1c220.chunk.css.map": "/Tosinyusuf/PortfolioR.git/static/css/main.b9a1c220.chunk.css.map",
-    "static/js/2.6ab37ef6.chunk.js.LICENSE.txt": "/Tosinyusuf/PortfolioR.git/static/js/2.6ab37ef6.chunk.js.LICENSE.txt",
-    "static/media/NominateMovies.53df2d46.png": "/Tosinyusuf/PortfolioR.git/static/media/NominateMovies.53df2d46.png",
-    "static/media/challenegenek.658caa0f.png": "/Tosinyusuf/PortfolioR.git/static/media/challenegenek.658caa0f.png",
-    "static/media/challengeT.c31c17bb.png": "/Tosinyusuf/PortfolioR.git/static/media/challengeT.c31c17bb.png",
-    "static/media/ellusive.665d9010.png": "/Tosinyusuf/PortfolioR.git/static/media/ellusive.665d9010.png",
-    "static/media/App.css": "/Tosinyusuf/PortfolioR.git/static/media/my portfolio samp.761752ba.png",
-    "static/media/newsoko.49fb03ef.png": "/Tosinyusuf/PortfolioR.git/static/media/newsoko.49fb03ef.png",
-    "static/media/weatherapp.321d6b24.png": "/Tosinyusuf/PortfolioR.git/static/media/weatherapp.321d6b24.png"
+    "main.css": "/PortfolioR/static/css/main.42d95229.chunk.css",
+    "main.js": "/PortfolioR/static/js/main.d564264c.chunk.js",
+    "main.js.map": "/PortfolioR/static/js/main.d564264c.chunk.js.map",
+    "runtime-main.js": "/PortfolioR/static/js/runtime-main.482f868c.js",
+    "runtime-main.js.map": "/PortfolioR/static/js/runtime-main.482f868c.js.map",
+    "static/js/2.6ab37ef6.chunk.js": "/PortfolioR/static/js/2.6ab37ef6.chunk.js",
+    "static/js/2.6ab37ef6.chunk.js.map": "/PortfolioR/static/js/2.6ab37ef6.chunk.js.map",
+    "index.html": "/PortfolioR/index.html",
+    "static/css/main.42d95229.chunk.css.map": "/PortfolioR/static/css/main.42d95229.chunk.css.map",
+    "static/js/2.6ab37ef6.chunk.js.LICENSE.txt": "/PortfolioR/static/js/2.6ab37ef6.chunk.js.LICENSE.txt",
+    "static/media/NominateMovies.53df2d46.png": "/PortfolioR/static/media/NominateMovies.53df2d46.png",
+    "static/media/challenegenek.658caa0f.png": "/PortfolioR/static/media/challenegenek.658caa0f.png",
+    "static/media/challengeT.c31c17bb.png": "/PortfolioR/static/media/challengeT.c31c17bb.png",
+    "static/media/ellusive.665d9010.png": "/PortfolioR/static/media/ellusive.665d9010.png",
+    "static/media/App.css": "/PortfolioR/static/media/my portfolio samp.761752ba.png",
+    "static/media/newsoko.49fb03ef.png": "/PortfolioR/static/media/newsoko.49fb03ef.png",
+    "static/media/weatherapp.321d6b24.png": "/PortfolioR/static/media/weatherapp.321d6b24.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.543a8dc6.js",
+    "static/js/runtime-main.482f868c.js",
     "static/js/2.6ab37ef6.chunk.js",
-    "static/css/main.b9a1c220.chunk.css",
+    "static/css/main.42d95229.chunk.css",
     "static/js/main.d564264c.chunk.js"
   ]
 }
